@@ -4,19 +4,19 @@ Negligently structured list of Programming Language Theory materials.
 ## Videos
 ### Oregon Programming Languages Summer School:
 #### 2012
-- Logic theory
+- **Logic theory**
   - [Lecture 1](https://www.youtube.com/watch?v=YRu7Xi-mNK8)
   - [Lecture 2](https://www.youtube.com/watch?v=JzIAEv8fN88)
   - [Lecture 3](https://www.youtube.com/watch?v=nw0JAF79gYI)
   - [Lecture 4](https://www.youtube.com/watch?v=_XtflAEN6aA)
-- Type theory
+- **Type theory**
   - [Lecture 1](https://www.youtube.com/watch?v=ev7AYsLljxk)
   - [Lecture 2](https://www.youtube.com/watch?v=3JHTb6b1to8)
   - [Lecture 3](https://www.youtube.com/watch?v=wJLTE8rnqH0)
   - [Lecture 4](https://www.youtube.com/watch?v=P6YUm_E6rRA)
   - [Lecture 5](https://www.youtube.com/watch?v=wnHp5F9RDPI)
   - [Lecture 6](https://www.youtube.com/watch?v=glv3X4PfrEc)
-- Category theory
+- **Category theory**
   - [Lecture 1](https://www.youtube.com/watch?v=ZKmodCApZwk)
   - [Lecture 2](https://www.youtube.com/watch?v=TQYjekxqw-Q)
   - [Lecture 3](https://www.youtube.com/watch?v=BOynNljjbeg)
