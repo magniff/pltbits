@@ -1,8 +1,9 @@
 # PLT bits
-
 Negligently structured list of Programming Language Theory materials.
-## Oregon Programming Languages Summer School:
-### 2012
+
+## Videos
+### Oregon Programming Languages Summer School:
+#### 2012
 - Logic theory
   - [Lecture 1](https://www.youtube.com/watch?v=YRu7Xi-mNK8)
   - [Lecture 2](https://www.youtube.com/watch?v=JzIAEv8fN88)
@@ -21,6 +22,7 @@ Negligently structured list of Programming Language Theory materials.
   - [Lecture 3](https://www.youtube.com/watch?v=BOynNljjbeg)
   - [Lecture 4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
 
+## Texts
 - [Functional Pearl: I am not a Number - I am a Free Variable](http://docshare02.docshare.tips/files/25357/253574595.pdf)
 - [David Christiansen's tutorials on type theory and what not](http://www.davidchristiansen.dk/tutorials/)
 - [Ulf Norell's PHD on Agda](http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf)
