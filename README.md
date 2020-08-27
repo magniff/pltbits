@@ -27,3 +27,4 @@ Negligently structured list of Programming Language Theory materials.
 - [David Christiansen's tutorials on type theory and what not](http://www.davidchristiansen.dk/tutorials/)
 - [Ulf Norell's PHD on Agda](http://www.cse.chalmers.se/~ulfn/papers/thesis.pdf)
 - [A rather comprehensive survey on Bidirectional Typing](https://www.cl.cam.ac.uk/~nk480/bidir-survey.pdf)
+- [Programming language foundations in Agda](https://plfa.github.io/)
