@@ -21,6 +21,14 @@ Negligently structured list of Programming Language Theory materials.
   - [Lecture 2](https://www.youtube.com/watch?v=TQYjekxqw-Q)
   - [Lecture 3](https://www.youtube.com/watch?v=BOynNljjbeg)
   - [Lecture 4](https://www.youtube.com/watch?v=8fZmdhLLgs4)
+  
+#### 2018
+- **Computational Type Theory (Robert Harper)**
+  - [Lecture 1](https://www.youtube.com/watch?v=LE0SSLizYUI)
+  - [Lecture 2](https://www.youtube.com/watch?v=1U4w0159-Ls)
+  - [Lecture 3](https://www.youtube.com/watch?v=GzPMZ6RsihU)
+  - [Lecture 4](https://www.youtube.com/watch?v=pfOQ97iCIsk)
+  - [Lecture 5](https://www.youtube.com/watch?v=RhDuRmg-SdA)
 
 ## Texts
 - [Functional Pearl: I am not a Number - I am a Free Variable](http://docshare02.docshare.tips/files/25357/253574595.pdf)
